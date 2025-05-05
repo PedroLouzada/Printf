@@ -6,7 +6,7 @@
 #    By: pbongiov <pbongiov@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/05/01 17:31:21 by pbongiov          #+#    #+#              #
-#    Updated: 2025/05/01 17:31:22 by pbongiov         ###   ########.fr        #
+#    Updated: 2025/05/05 20:53:14 by pbongiov         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -18,7 +18,7 @@ CC_FLAGS = -Wall -Wextra -Werror
 AR = ar rcs
 RM = rm -f
 
-SRC_FILES = 
+SRC_FILES = ft_printf.c
 OBJS = $(SRC_FILES:.c=.o)
 
 all: $(NAME)

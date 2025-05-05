@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "cstdarg": "c",
+        "array": "c",
+        "charconv": "c",
+        "compare": "c",
+        "functional": "c",
+        "ratio": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "variant": "c",
+        "sstream": "c",
+        "ft_printf.h": "c"
+    }
+}
